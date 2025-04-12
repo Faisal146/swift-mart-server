@@ -30,7 +30,7 @@ Follow the steps below to set up and run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Faisal146/swift-mart-Server.git
+   git clone https://github.com/Faisal146/swift-mart-server.git
    cd swift-mart-Server
    ```
 
@@ -121,9 +121,3 @@ CANCEL_URL="<your_cancel_url>"
   ```
 
 ---
-
-## API Documentation
-
-[https://documenter.getpostman.com/view/28371413/2sAYQXpCyd](https://documenter.getpostman.com/view/28371413/2sAYQXpCyd)
-
-**SwiftMart** is a single-vendor e-commerce platform. This repository contains the server-side implementation, providing robust backend services and APIs to power the platform.
